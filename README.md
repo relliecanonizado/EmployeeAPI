@@ -39,6 +39,6 @@ URL: http://<[address]/api/employee/delete?id=2
   
 NOTE:
 
-- To update connection string, go to Web.config of EmployeeApi and find the entry <connectionStrings>
+- To update connection string, go to Web.config of EmployeeApi and find the entry "connectionStrings"
 - SQL Script for creating database is in SQL Script folder: Create DB and Table.sql
 
