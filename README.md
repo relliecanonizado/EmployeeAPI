@@ -4,7 +4,7 @@
 **Create employee request:**
 
 Method: POST
-URL: http://<address>/api/employee/create
+URL: http://[address]/api/employee/create
 
 Sample json request:
 
@@ -17,7 +17,7 @@ Sample json request:
 **Update employee request:**
 
 Method: PUT
-URL: http://<address>/api/employee/update/1
+URL: http://[address]/api/employee/update/1
 
 Sample json request:
 
@@ -30,12 +30,12 @@ Sample json request:
 **Get employee list request:**
 
 Method: GET
-URL: http://<address>/api/employee/list
+URL: http://[address]/api/employee/list
 
 **Delete employee request:**
 
 Method: DELETE
-URL: http://<address>/api/employee/delete?id=2
+URL: http://<[address]/api/employee/delete?id=2
   
 NOTE:
 
